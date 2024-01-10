@@ -21,7 +21,7 @@
 - 🚪 Logout functionality 
 
 ### Live Demo 🎉
-Explore the live version of Codes-Wear <a target="_blank" href="https://codes-wear2.vercel.app/">here</a>.
+Explore the live version of Codes-Wear <a target="_blank" href="">here</a>.
 
 ### .env Setup
 ```sh
